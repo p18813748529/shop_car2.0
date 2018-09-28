@@ -1,0 +1,31 @@
+.clear_fix:after{
+	content: "";
+	display: block;
+	height: 0;
+	overflow: hidden;
+	visibility: hidden;
+	clear: both;
+}
+.main{
+    width: 880px;
+    margin: 100px auto 0;
+}
+.shop{
+    width: 210px;
+    border: 1px solid coral;
+    padding: 5px;
+    float: left;
+    margin: 0 5px;
+}
+.shop img{
+    width: 200px;
+    height: 200px;
+}
+.shop .shop-count{
+    width: 80px;
+    height: 34px;
+    float: left;
+}
+.shop .addToCarBtn{
+    float: right;
+}

@@ -1,0 +1,31 @@
+
+[
+    {
+        "id":1,
+        "name":"牙刷",
+        "price":20,
+        "ps":"热销中",
+        "img":"images/pic5.png"
+    },
+    {
+        "id":2,
+        "name":"牙膏",
+        "price":15,
+        "ps":"热销中",
+        "img":"images/pic4.png"
+    },
+    {
+        "id":3,
+        "name":"脸盆",
+        "price":12,
+        "ps":"热销中",
+        "img":"images/pic3.png"
+    },
+    {
+        "id":4,
+        "name":"毛巾",
+        "price":10,
+        "ps":"热销中",
+        "img":"images/pic6.png"
+    }
+]
